@@ -1,0 +1,67 @@
+### NLP-tutorial-tensorflow2.x
+
+​	<center>![tf2](https://cdn.jsdelivr.net/gh/Okiii-lh/images/img/tf2-20210705145821081.png)</center>
+
+本项目旨在为使用tensorflow2学习NLP模型的新手提供模型复现代码指导，包含了NLP当中常用的模型。
+
+模型尽可能用最少、最精简的代码实现，大部分模型的实现代码都在100行以内（不包括注释、换行）。
+
+本项目参考https://github.com/graykode/nlp-tutorial（该项目是pytorch版）
+
+## Curriculum - (Example Purpose)
+
+#### 1. Basic Embedding Model
+
+- 1-1.NNLM(Neural Network Language Model)Predict Next Word
+  - Paper - [A Neural Probabilistic Language Model(2003)](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
+  - Colab - 
+- 1-2.Word2Vec(Skip-gram)Embedding Words and Show Graph
+  - Paper - [Distributed Representations of Words and Phrases and their Compositionality(2013)](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+  - Colab -
+- 1-3.FastText(Application Level)Sentence Classification
+  - Paper - [Bag of Tricks for Efficient Text Classification(2016)](https://arxiv.org/pdf/1607.01759.pdf)
+  - Colab - 
+
+#### 2. CNN(Convolutional Neural Network)
+
+- 2-1.TextCNN Binary Sentiment Classification
+  - Paper - [Convolutional Neural Networks for Sentence Classification(2014)](http://www.aclweb.org/anthology/D14-1181)
+  - Colab - 
+
+#### 3. RNN(Recurrent Neural Network)
+
+- 3-1.TextRNN Predict Next Step
+  - Paper - [Finding Structure in Time(1990)](http://psych.colorado.edu/~kimlab/Elman1990.pdf)
+  - Colab - 
+- 3-2.TextLSTM Autocomplete
+  - Paper - [LONG SHORT-TERM MEMORY(1997)](https://www.bioinf.jku.at/publications/older/2604.pdf)
+  - Colab - [TextLSTM.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/3-2.TextLSTM/TextLSTM.ipynb)
+- 3-3.Bi-LSTM Predict Next Word in Long Sentence
+  - Colab - 
+
+#### 4. Attention Mechanism
+
+- 4-1. Seq2Seq Change Word
+  - Paper - [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation(2014)](https://arxiv.org/pdf/1406.1078.pdf)
+  - Colab - 
+- 4-2.Seq2Seq with Attention Translate
+  - Paper - [Neural Machine Translation by Jointly Learning to Align and Translate(2014)](https://arxiv.org/abs/1409.0473)
+  - Colab - 
+- 4-3.Bi-LSTM with Attention-Binary Sentiment Classification
+  - Colab - 
+
+#### 5. Model based on Transformer
+
+- 5-1.The Transformer-Translate
+  - Paper - [Attention Is All You Need(2017)](https://arxiv.org/abs/1706.03762)
+  - Colab - 
+- 5-2.BERT Classification Next Sentence & Predict Masked Tokens
+  - Paper - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(2018)](https://arxiv.org/abs/1810.04805)
+  - Colab - 
+
+## Dependencies
+
+- Python 3.7+
+- Pytorch 2.3.0
+
+## 
