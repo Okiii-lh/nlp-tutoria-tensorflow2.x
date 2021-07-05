@@ -33,7 +33,7 @@ Reference for:https://github.com/graykode/nlp-tutorial （implemented by Pytorch
   - Colab - waiting
 - 3-2.TextLSTM - **Autocomplete**
   - Paper - [LONG SHORT-TERM MEMORY(1997)](https://www.bioinf.jku.at/publications/older/2604.pdf)
-  - Colab - [TextLSTM.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/3-2.TextLSTM/TextLSTM.ipynb)
+  - Colab - waiting
 - 3-3.Bi-LSTM - **Predict Next Word in Long Sentence**
   - Colab - waiting
 
