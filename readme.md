@@ -4,7 +4,7 @@
 
 nlp-tutorial-tensorflow2.x is a tutorial for who is studying NLP using TensorFlow2.x. Most of the model in NLP were implemented with less 100 lines of code(except comments or blank lines)
 
-Reference for:https://github.com/graykode/nlp-tutorial（implemented by Pytorch）
+Reference for:https://github.com/graykode/nlp-tutorial （implemented by Pytorch）
 
 ## Curriculum - (Example Purpose)
 
