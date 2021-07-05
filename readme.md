@@ -12,7 +12,7 @@ Reference for:https://github.com/graykode/nlp-tutorial （implemented by Pytorch
 
 - 1-1.NNLM(Neural Network Language Model) - **Predict Next Word**
   - Paper - [A Neural Probabilistic Language Model(2003)](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
-  - Colab - waiting
+  - Colab - [NNLM.py](https://github.com/Okiii-lh/nlp-tutoria-tensorflow2.x/blob/master/1-1.NNLM/NNLM.py)
 - 1-2.Word2Vec(Skip-gram) - **Embedding Words and Show Graph**
   - Paper - [Distributed Representations of Words and Phrases and their Compositionality(2013)](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
   - Colab - waiting
