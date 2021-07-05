@@ -1,8 +1,8 @@
-### NLP-tutorial-tensorflow2.x
+### nlp-tutorial-tensorflow2.x
 
 ​	<center>![tf2](https://cdn.jsdelivr.net/gh/Okiii-lh/images/img/tf2-20210705145821081.png)</center>
 
-Nlp-tutorial-tensorflow2.x is a tutorial for who is studying NLP using TensorFlow2.x. Most of the model in NLP were implemented with less 100 lines of code(except comments or blank lines)
+nlp-tutorial-tensorflow2.x is a tutorial for who is studying NLP using TensorFlow2.x. Most of the model in NLP were implemented with less 100 lines of code(except comments or blank lines)
 
 Reference for:https://github.com/graykode/nlp-tutorial（implemented by Pytorch）
 
