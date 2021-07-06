@@ -15,7 +15,7 @@ Reference: https://github.com/graykode/nlp-tutorial （implemented by Pytorch）
   - Code - [NNLM.py](https://github.com/Okiii-lh/nlp-tutoria-tensorflow2.x/blob/master/1-1.NNLM/NNLM.py)
 - 1-2.Word2Vec(Skip-gram) - **Embedding Words and Show Graph**
   - Paper - [Distributed Representations of Words and Phrases and their Compositionality(2013)](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
-  - Code - waiting
+  - Code - [Word2Vec-Skipgram(Softmax).py](https://github.com/Okiii-lh/nlp-tutoria-tensorflow2.x/blob/master/1-2.Word2Vec(Skipgram)/Word2Vec-Skipgram(Softmax).py)
 - 1-3.FastText(Application Level) - **Sentence Classification**
   - Paper - [Bag of Tricks for Efficient Text Classification(2016)](https://arxiv.org/pdf/1607.01759.pdf)
   - Code - waiting
