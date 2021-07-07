@@ -24,7 +24,7 @@ Reference: https://github.com/graykode/nlp-tutorial （implemented by Pytorch）
 
 - 2-1.TextCNN - **Binary Sentiment Classification**
   - Paper - [Convolutional Neural Networks for Sentence Classification(2014)](http://www.aclweb.org/anthology/D14-1181)
-  - Code - waiting
+  - Code - [TextCNN.py](https://github.com/Okiii-lh/nlp-tutoria-tensorflow2.x/blob/master/2-1.TextCNN/TextCNN.py)
 
 #### 3. RNN(Recurrent Neural Network)
 
