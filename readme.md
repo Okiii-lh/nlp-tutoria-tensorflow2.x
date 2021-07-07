@@ -33,9 +33,9 @@ Reference: https://github.com/graykode/nlp-tutorial （implemented by Pytorch）
   - Code - [TextRNN.py](https://github.com/Okiii-lh/nlp-tutoria-tensorflow2.x/blob/master/3-1.TextRNN/TextRNN.py)
 - 3-2.TextLSTM - **Autocomplete**
   - Paper - [LONG SHORT-TERM MEMORY(1997)](https://www.bioinf.jku.at/publications/older/2604.pdf)
-  - Code - TextLSTM.py
+  - Code - [TextLSTM.py](https://github.com/Okiii-lh/nlp-tutoria-tensorflow2.x/blob/master/3-2.TextLSTM/TextLSTM.py)
 - 3-3.Bi-LSTM - **Predict Next Word in Long Sentence**
-  - Code - waiting
+  - Code - Bi-LSTM.py
 
 #### 4. Attention Mechanism
 
