@@ -28,7 +28,7 @@ Reference: https://github.com/graykode/nlp-tutorial （implemented by Pytorch）
 
 #### 3. RNN(Recurrent Neural Network)
 
-- 3-1.TextRNN - **Predict Next Step**
+- 3-1.TextRNN - **Binary Sentiment Classification**
   - Paper - [Finding Structure in Time(1990)](http://psych.colorado.edu/~kimlab/Elman1990.pdf)
   - Code - waiting
 - 3-2.TextLSTM - **Autocomplete**
