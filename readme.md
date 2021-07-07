@@ -30,7 +30,7 @@ Reference: https://github.com/graykode/nlp-tutorial （implemented by Pytorch）
 
 - 3-1.TextRNN - **Binary Sentiment Classification**
   - Paper - [Finding Structure in Time(1990)](http://psych.colorado.edu/~kimlab/Elman1990.pdf)
-  - Code - waiting
+  - Code - [TextRNN.py](https://github.com/Okiii-lh/nlp-tutoria-tensorflow2.x/blob/master/3-1.TextRNN/TextRNN.py)
 - 3-2.TextLSTM - **Autocomplete**
   - Paper - [LONG SHORT-TERM MEMORY(1997)](https://www.bioinf.jku.at/publications/older/2604.pdf)
   - Code - waiting
