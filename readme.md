@@ -18,7 +18,7 @@ Reference: https://github.com/graykode/nlp-tutorial （implemented by Pytorch）
   - Code - [Word2Vec-Skipgram(Softmax).py](https://github.com/Okiii-lh/nlp-tutoria-tensorflow2.x/blob/master/1-2.Word2Vec(Skipgram)/Word2Vec-Skipgram(Softmax).py)
 - 1-3.FastText(Application Level) - **Sentence Classification**
   - Paper - [Bag of Tricks for Efficient Text Classification(2016)](https://arxiv.org/pdf/1607.01759.pdf)
-  - Code - waiting
+  - Code - [FastText.py](https://github.com/Okiii-lh/nlp-tutoria-tensorflow2.x/blob/master/1-3.FastText/FastText.py)
 
 #### 2. CNN(Convolutional Neural Network)
 
