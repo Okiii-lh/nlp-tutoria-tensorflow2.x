@@ -41,7 +41,7 @@ Reference: https://github.com/graykode/nlp-tutorial （implemented by Pytorch）
 
 - 4-1. Seq2Seq - **Change Word**
   - Paper - [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation(2014)](https://arxiv.org/pdf/1406.1078.pdf)
-  - Code - waiting
+  - Code - [Seq2Seq.py](https://github.com/Okiii-lh/nlp-tutoria-tensorflow2.x/blob/master/4-1.Seq2Seq/Seq2Seq.py)
 - 4-2.Seq2Seq with Attention - **Translate**
   - Paper - [Neural Machine Translation by Jointly Learning to Align and Translate(2014)](https://arxiv.org/abs/1409.0473)
   - Code - waiting
