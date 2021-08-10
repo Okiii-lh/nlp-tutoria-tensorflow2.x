@@ -44,7 +44,7 @@ Reference: https://github.com/graykode/nlp-tutorial （implemented by Pytorch）
   - Code - [Seq2Seq.py](https://github.com/Okiii-lh/nlp-tutoria-tensorflow2.x/blob/master/4-1.Seq2Seq/Seq2Seq.py)
 - 4-2.Seq2Seq with Attention - **Translate**
   - Paper - [Neural Machine Translation by Jointly Learning to Align and Translate(2014)](https://arxiv.org/abs/1409.0473)
-  - Code - waiting
+  - Code - [Seq2Seq_attention.py](https://github.com/Okiii-lh/nlp-tutoria-tensorflow2.x/blob/master/4-2.Seq2Seq(Attention)/Seq2Seq_attention.py)
 - 4-3.Bi-LSTM with Attention - **Binary Sentiment Classification**
   - Code - waiting
 
