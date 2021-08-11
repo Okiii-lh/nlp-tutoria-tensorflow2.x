@@ -46,6 +46,7 @@ Reference: https://github.com/graykode/nlp-tutorial （implemented by Pytorch）
   - Paper - [Neural Machine Translation by Jointly Learning to Align and Translate(2014)](https://arxiv.org/abs/1409.0473)
   - Code - [Seq2Seq_attention.py](https://github.com/Okiii-lh/nlp-tutoria-tensorflow2.x/blob/master/4-2.Seq2Seq(Attention)/Seq2Seq_attention.py)
 - 4-3.Bi-LSTM with Attention - **Binary Sentiment Classification**
+  - Paper - [Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification](https://aclanthology.org/P16-2034.pdf)
   - Code - waiting
 
 #### 5. Model based on Transformer
