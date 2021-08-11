@@ -53,10 +53,7 @@ Reference: https://github.com/graykode/nlp-tutorial （implemented by Pytorch）
 
 - 5-1.The Transformer - **Translate**
   - Paper - [Attention Is All You Need(2017)](https://arxiv.org/abs/1706.03762)
-  - Code - waiting
-- 5-2.BERT - **Classification Next Sentence & Predict Masked Tokens**
-  - Paper - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(2018)](https://arxiv.org/abs/1810.04805)
-  - Code - waiting
+  - Code - [transformer.py](https://github.com/Okiii-lh/nlp-tutoria-tensorflow2.x/blob/master/5-1.Transformer/transformer.py)
 
 ## Dependencies
 
