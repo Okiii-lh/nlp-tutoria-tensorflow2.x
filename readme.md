@@ -47,7 +47,7 @@ Reference: https://github.com/graykode/nlp-tutorial （implemented by Pytorch）
   - Code - [Seq2Seq_attention.py](https://github.com/Okiii-lh/nlp-tutoria-tensorflow2.x/blob/master/4-2.Seq2Seq(Attention)/Seq2Seq_attention.py)
 - 4-3.Bi-LSTM with Attention - **Binary Sentiment Classification**
   - Paper - [Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification](https://aclanthology.org/P16-2034.pdf)
-  - Code - waiting
+  - Code - [BiLSTM_attention.py](https://github.com/Okiii-lh/nlp-tutoria-tensorflow2.x/blob/master/4-3.BiLSTM(Attention)/BiLSTM_attention.py)
 
 #### 5. Model based on Transformer
 
